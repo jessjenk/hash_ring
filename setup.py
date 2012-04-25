@@ -17,7 +17,7 @@ def list_files(path):
             yield fn
 
 setup(name='hash_ring',
-      version = '1.2',
+      version = '1.2.1',
       author="Amir Salihefendic",
       author_email="amix@amix.dk",
       url="http://www.amix.dk/",
